@@ -42,5 +42,5 @@ https://my-book-recommendation.onrender.com/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/book-recommender.git
+git clone https://github.com/Abhaybs/my-book-recommendation.git
 cd book-recommender
