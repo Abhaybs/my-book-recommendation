@@ -43,4 +43,4 @@ https://my-book-recommendation.onrender.com/
 
 ```bash
 git clone https://github.com/Abhaybs/my-book-recommendation.git
-cd book-recommender
+cd my-book-recommendation
